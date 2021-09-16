@@ -879,16 +879,16 @@ section {
   fill: #e80368;
 }
 
-.services .iconbox-yellow i {
-  color: #ffbb2c;
+.services .iconbox-green i {
+  color: #3ddc84;
 }
 
-.services .iconbox-yellow:hover .icon i {
+.services .iconbox-green:hover .icon i {
   color: #fff;
 }
 
-.services .iconbox-yellow:hover .icon path {
-  fill: #ffbb2c;
+.services .iconbox-green:hover .icon path {
+  fill: #3ddc84;
 }
 
 .services .iconbox-red i {
